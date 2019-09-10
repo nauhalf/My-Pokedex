@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Pokedex</string>
+    <string name="national_id">#%1$03d</string>
+    <string name="weight_pokemon">%1$s lbs</string>
+    <string name="description">Description</string>
+
+</resources>

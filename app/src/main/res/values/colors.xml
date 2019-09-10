@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#313131</color>
+    <color name="colorPrimaryDark">#202020</color>
+    <color name="colorAccent">#4DAD5B</color>
+    <color name="colorBackgroundGrey">#E7E7E7</color>
+    
+    <color name="colorTypeNormal">#AAAA99</color>
+    <color name="colorTypeFire">#FF4422</color>
+    <color name="colorTypeWater">#3399FF</color>
+    <color name="colorTypeElectric">#FFCC33</color>
+    <color name="colorTypeGrass">#77CC55</color>
+    <color name="colorTypeIce">#66CCFF</color>
+    <color name="colorTypeFighting">#B55242</color>
+    <color name="colorTypePoison">#AA5599</color>
+    <color name="colorTypeGround">#DDBB55</color>
+    <color name="colorTypeFlying">#8899FF</color>
+    <color name="colorTypePsychic">#FF5599</color>
+    <color name="colorTypeBug">#AABB22</color>
+    <color name="colorTypeRock">#968852</color>
+    <color name="colorTypeGhost">#6666BB</color>
+    <color name="colorTypeDragon">#7766EE</color>
+    <color name="colorTypeDark">#775544</color>
+    <color name="colorTypeSteel">#AAAABB</color>
+    <color name="colorTypeFairy">#EE99EE</color>
+    <color name="colorCardImageBackground">#F2F2F2</color>
+</resources>
